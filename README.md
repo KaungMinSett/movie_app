@@ -1,12 +1,12 @@
 # Movie Explorer
 
-A React app that fetches and displays movies from the [TMDB API](https://www.themoviedb.org/documentation/api), with data storage and management powered by [Appwrite](https://appwrite.io/). Hosted on [Vercel](https://vercel.com/).
+A React app that fetches and displays movies from the [TMDB API](https://www.themoviedb.org/documentation/api), with data storage and management powered by [Appwrite](https://appwrite.io/). 
 
 ## Features
 - Browse popular movies from TMDB.
 - Save movie data to Appwrite for personalized features.
 - Responsive design built with React and Vite.
-- Deployed seamlessly on Vercel.
+
 
 ## Tech Stack
 - **Frontend**: React, Vite
