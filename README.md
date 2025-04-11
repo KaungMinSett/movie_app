@@ -22,7 +22,7 @@ A React app that fetches and displays movies from the [TMDB API](https://www.the
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/KaungMinSett/movie_app.git
    cd your-repo
 2. Install dependencies:
 
